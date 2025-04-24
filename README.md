@@ -1,9 +1,13 @@
 # Currency-Converter-using-GenAI
 
-# Currency Converter & News Application
-
 ## Overview
 This application provides real-time currency conversion rates and the latest news related to selected currency pairs. It combines financial data API integration with advanced language model capabilities to deliver both quantitative exchange rate information and qualitative market insights in one streamlined interface.
+
+![Image](https://github.com/user-attachments/assets/f55700d6-59d4-49ce-824c-c4f025f6afcf)
+![Image](https://github.com/user-attachments/assets/b561878b-9c19-4b7e-9d42-6ec6ee2e6c27)
+![Image](https://github.com/user-attachments/assets/df283d16-e014-40e3-80ac-729d0b9017cb)
+![Image](https://github.com/user-attachments/assets/f303158b-9cbf-47ec-b881-1fc7efe57c03)
+![Image](https://github.com/user-attachments/assets/5805413e-7a69-4c36-9088-282d28cbb861)
 
 ## Features
 
