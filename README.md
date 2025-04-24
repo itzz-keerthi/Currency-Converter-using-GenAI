@@ -127,4 +127,4 @@ GOOGLE_API_KEY=your_google_api_key
 - Currency pairs limited to major currencies
 
 ## Contact
-- [@itzz-keerthi] (https://github.com/itzz-keerthi)
+- [@itzz-keerthi](https://github.com/itzz-keerthi)
